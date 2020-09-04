@@ -14,3 +14,5 @@ Java</br>
 SDK API 25 7.1.1 (Nougat)
 
 ### __Demo__
+
+![payroll](https://github.com/rnumata/ANDROID-Payroll/blob/master/payroll.gif)
