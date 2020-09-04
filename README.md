@@ -10,6 +10,7 @@ Its aim is to calculate taxes ( as IR, FGTS, INSS ) and net wage from a gross wa
 ### __Technologies Used__
 
 IDE Android Studio v4.0</br>
-Java
+Java</br>
+SDK API 25 7.1.1 (Nougat)
 
 ### __Demo__
